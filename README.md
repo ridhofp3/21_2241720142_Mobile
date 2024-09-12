@@ -1,1 +1,3 @@
-# 21_2241720142_Mobile
+# 2241720142
+# Ridho Fauzian Pratama
+# TI-3H / 21
