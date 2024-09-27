@@ -8,6 +8,7 @@
 
 ### Praktikum 1
 ![Alt text](ss1.png)
+
 <span style="color: red;"> Penjelasan :
 Membuat list dengan panjang 5 dan nilai default null lalu Mengisi indeks ke-1 dan ke-2 dengan nama dan NIM sebagai string Nama dan NIM sebagai string
 
@@ -22,6 +23,7 @@ var names3 = {'farrel'}: Ini membuat map, bukan set, karena Dart mengira kamu me
 
 ### Praktikum 3
 ![Alt text](ss3.png)
+
 <span style="color: red;"> · Map di Dart:
 Map adalah koleksi pasangan kunci-nilai, juga ditulis dengan {}, tetapi dengan format {'kunci': 'nilai'}.
 
@@ -33,10 +35,12 @@ mhs1 dan mhs2: Map kosong yang didefinisikan dengan tipe kunci dan nilai tertent
 
 ### Praktikum 4
 ![Alt text](ss4.png)
+
 <span style="color: red;"> Penjelasan : Pada kode tersebut kita melakukan inisialisasi listOfInts dengan value [1, 2, 3] dan melakukan inisialisasi untuk variable listOfStrings dengan value ['#0', for(var i in listOfInts) '#$i'] maksud dari syntax tersebut yaitu dart akan melakukan looping terhadap variable listOfInts yang kemudian akan mengambil value dari array listOfInts. Selanjutnya memasukkan variable i tersebut ke dalam sebuah string dan menampilkan variable listOfStrings.
 
 ### Praktikum 5
 ![Alt text](ss5.png)
+
 <span style="color: red;"> Penjelasan :<br> 
 Pada kode tersebut kita melakukan inisialisasi variabel mahasiswa2 yang diisi valuenya menggunakan record. Kemudian menampilkan isi data pada variable record dengan memanggil keynya dan urutan index pada record untuk string.
 
