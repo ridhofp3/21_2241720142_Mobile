@@ -6,7 +6,16 @@
 
 ### Tugas Praktikum 1: Dasar State dengan Model-View
 1. Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki.<br>
-<span style="color: red;">Saya ada masalah pada soal ini karena debugging saya untuk yang menggunakan hp / emulator error pada bagian gradle, mungkin bapak bisa membantu saya untuk menyelesaikan masalah ini </span><br>
+<span style="color: red;">Saya ada masalah pada soal ini karena debugging saya untuk yang menggunakan hp / emulator error pada bagian gradle, mungkin bapak bisa membantu saya untuk menyelesaikan masalah ini <br>
+Error Message</span>
+``` 
+PS C:\Users\User\OneDrive\ドキュメント\Semester 5\Mobile\Week10\master_plan> flutter run                                                                                    
+Launching lib\main.dart on sdk gphone64 x86 64 in debug mode...
+Error: Could not find or load main class org.gradle.wrapper.GradleWrapperMain
+Caused by: java.lang.ClassNotFoundException: org.gradle.wrapper.GradleWrapperMain
+Running Gradle task 'assembleDebug'...                             202ms
+Error: Gradle task assembleDebug failed with exit code 1
+```
 2. Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?<br>
 ```
 Membuat data_layer.dart yang bertujuan untuk mengekspor kedua model plan.dart dan task.dart, agar memudahkan untuk mengelola import. Jadi, pada file lain yang membutuhkan Plan atau Task, cukup mengimport data_layer.dart tanpa harus mengimport kedua file secara terpisah.
