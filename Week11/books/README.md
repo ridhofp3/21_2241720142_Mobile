@@ -2,7 +2,7 @@
 ### 2241720142
 ### TI-3h
 
-Sekali lagi mohon maaf pak karena debugging saya masih belum bisa jadi saya hanya akan menjawab soal sebisa saya pada praktikum kali ini
+### <span style="color:red">Sekali lagi mohon maaf pak karena debugging saya masih belum bisa jadi saya hanya akan menjawab soal sebisa saya pada praktikum kali ini</span>
 
 Soal 1
 Tambahkan nama panggilan Anda pada title app sebagai identitas hasil pekerjaan Anda.
